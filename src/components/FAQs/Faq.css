@@ -40,6 +40,10 @@
   text-align: right;
 
 }
+.answer{
+  width: 80%;
+  margin-bottom: 20px;
+}
 .agreeRefer {
   position: absolute;
   right: 0;
