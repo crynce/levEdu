@@ -38,6 +38,9 @@
   background: #c3e2fc;
   z-index: -1;
 }
+.headerHeading .specialtext {
+  color: #0487f3;
+}
 .headerReferralText {
   font-family: Rubik;
   font-style: normal;
@@ -82,6 +85,8 @@
   /* justify-content: center; */
   margin: 20px auto;
 }
+
+
 .middleStepItems {
   margin: 10px auto;
   display: flex;
