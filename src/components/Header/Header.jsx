@@ -11,7 +11,7 @@ export default function () {
               Upto 20K
               <div className="headingUnderline"></div>
             </span>
-            per referral
+{" "}per referral
           </h2>
           <div className="headerReferralText">
             Gift the leverage Edu Experience and change lives of future global
